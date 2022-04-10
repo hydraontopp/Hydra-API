@@ -32,7 +32,7 @@ scoreboard players set @s welcomed 1
 #scoreboard objectives add invcheck dummy
 #scoreboard objectives add tp_cooldown dummy
 #scoreboard players set @s is_sleeping 0
-#scoreboard players set @s suicide 0
+#scoreboard players set @s kill 0
 #scoreboard players set @s kills 0
 
 #If experimental features are on, set to true

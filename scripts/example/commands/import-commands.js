@@ -1,0 +1,9 @@
+import './information/help.js';
+import './other/home.js';
+import './other/lastdeath.js';
+import './other/selfstats.js';
+import './other/tpa.js';
+import './other/setworldspawn.js';
+import './other/inventoryview.js';
+import './other/spawn.js';
+import './other/kill.js';
